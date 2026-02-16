@@ -2,7 +2,7 @@
 
 I'm a passionate Software Developer with a strong focus on backend development. I love working with Python, Django, and REST APIs to build scalable and efficient applications.
 
-- 💼 Experience: Backend Developer | Intern at GenZSoft Lab.
+- 💼 Experience: Backend Developer |Job at Softvence IT.
 - 🌱 Learning: Django DRF. Flutter 
 - 📫 Contact: 🌐 alamindev-five.vercel.app· 📧 alamin88.ime@gmail.com · 🐙 GitHub
 
